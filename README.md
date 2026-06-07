@@ -20,23 +20,7 @@ Building scalable AI applications, automation tools, and full-stack products tha
 
 [![Email](https://img.shields.io/badge/Email-tharunadhithya95%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:tharunadhithya95@gmail.com)
 
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:tharunadhithya95@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tharun-adhithya-6313ab2b9/">
-<img src="https://img.shields.io/badge/LinkedIn-Tharun%20Adhithya-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/tadhithya">
-<img src="https://img.shields.io/badge/GitHub-tadhithya-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharun%20Adhithya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tharun-adhithya-6313ab2b9/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
 

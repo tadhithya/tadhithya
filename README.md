@@ -238,7 +238,7 @@ def fun_fact():
 
 ### AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 ### Tools & Platforms
 
@@ -254,7 +254,7 @@ def fun_fact():
 
 ### Dewdas Technology Pvt. Ltd.
 
-**2025 – Present**
+**2025 **
 
 ```text
 Python • REST APIs • Automation • Git • Backend Development
@@ -280,7 +280,7 @@ Python • REST APIs • Automation • Git • Backend Development
 
 ### Future Interns
 
-**2026 – Present**
+**2026 **
 
 ```text
 Prompt Engineering • AI Workflows • GitHub • Automation
@@ -503,11 +503,159 @@ while learning:
 
     repeat()
 ```
+# 📊 GitHub Statistics
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tadhithya&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadhithya&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tadhithya&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tadhithya&theme=github-dark&hide_border=true"/>
+
+</div>
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tadhithya&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
 ---
 
 <div align="center">
 
 ### "Build. Learn. Share. Repeat."
+
+# 🎓 Education
+
+| Degree | Institution | Graduation | CGPA |
+|----------|------------|------------|------------|
+| B.Tech Electronics & Computer Science (AI) | Christ University, Bengaluru | 2027 | 3.40 / 4.00 |
+
+### Relevant Coursework
+
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Database Management Systems
+- Software Engineering
+- Computer Networks
+
+</div>
+
+# 🏅 Certifications
+
+- Prompt Engineering Internship – Future Interns
+- Microsoft AI Skills Challenge
+- NPTEL Data Science
+- MATLAB Programming
+- Cyber Security Fundamentals
+- L&T Edutech Program
+
+# 📚 Currently Learning
+
+```python
+learning_roadmap = {
+
+    "LLMs":
+        "Advanced Prompt Engineering & Agents",
+
+    "LangChain":
+        "LLM Application Development",
+
+    "AWS":
+        "EC2 • S3 • Lambda • CloudFront",
+
+    "Docker":
+        "Containerized AI Applications",
+
+    "PostgreSQL":
+        "Scalable Database Systems",
+
+    "Redis":
+        "Caching & Performance",
+
+    "Kubernetes":
+        "Container Orchestration",
+
+    "GitHub Actions":
+        "CI/CD Automation",
+
+    "System Design":
+        "Scalable Backend Architecture"
+
+}
+```
+
+# 🌍 Open Source Goals
+
+```python
+open_source = {
+
+    "Hacktoberfest":
+        "2026",
+
+    "First Open Source PR":
+        "In Progress",
+
+    "GitHub Foundations":
+        "Planned",
+
+    "AWS Cloud Practitioner":
+        "Planned",
+
+    "Contributions":
+        "100+ by 2026"
+
+}
+```
+
+# 🐍 Contribution Snake
+
+Will be enabled through GitHub Actions soon.
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:tharunadhithya95@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build • Learn • Share • Repeat
+
+*"Every line of code should solve a real-world problem."*
+
+**Tharun Adhithya**
 
 </div>

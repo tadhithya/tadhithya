@@ -1,3 +1,221 @@
+<div align="center">
+
+# THARUN ADHITHYA A
+
+### AI Engineer | Full Stack Developer | Building Intelligent Software Systems
+
+Building scalable AI applications, automation tools, and full-stack products that solve real-world problems.
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Prompt+Engineer;Backend+Developer;Building+Intelligent+Software+Systems)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=tadhithya&style=for-the-badge&color=blue)
+
+[![Email](https://img.shields.io/badge/Email-tharunadhithya95%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:tharunadhithya95@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+
+[![GitHub followers](https://img.shields.io/github/followers/tadhithya?style=for-the-badge)](https://github.com/tadhithya)
+
+</div>
+
+---
+
+# About Me
+
+```python
+from dataclasses import dataclass, field
+from typing import List
+
+
+@dataclass
+class TharunAdhithya:
+
+    name: str = "Tharun Adhithya A"
+
+    role: str = (
+        "AI Engineer | Full Stack Developer"
+    )
+
+    specialization: str = (
+        "Artificial Intelligence • Backend Development • Automation"
+    )
+
+    focus: str = (
+        "Building production-ready software with AI integration"
+    )
+
+    location: str = "Bengaluru, India"
+
+    education: str = (
+        "B.Tech Electronics & Computer Science (AI)"
+    )
+
+    university: str = "Christ University"
+
+    graduation: str = "2027"
+
+    interests: List[str] = field(default_factory=lambda: [
+
+        "Artificial Intelligence",
+
+        "Full Stack Development",
+
+        "Backend Engineering",
+
+        "Automation",
+
+        "Cloud Computing",
+
+        "Open Source"
+
+    ])
+
+    tech_stack: List[str] = field(default_factory=lambda: [
+
+        "Python",
+
+        "JavaScript",
+
+        "TypeScript",
+
+        "React",
+
+        "Node.js",
+
+        "FastAPI",
+
+        "MongoDB",
+
+        "MySQL",
+
+        "Git",
+
+        "Docker"
+
+    ])
+
+    currently_learning: List[str] = field(default_factory=lambda: [
+
+        "Large Language Models",
+
+        "RAG Applications",
+
+        "AWS",
+
+        "Docker",
+
+        "CI/CD",
+
+        "System Design"
+
+    ])
+
+    def mission(self):
+
+        return (
+
+            "Create scalable software and AI systems "
+
+            "that improve everyday life."
+
+        )
+
+
+profile = TharunAdhithya()
+
+print(profile.mission())
+
+# Output
+
+Create scalable software and AI systems that improve everyday life.
+```
+
+---
+
+# Quick Facts
+
+```yaml
+Name: Tharun Adhithya A
+
+Role: AI Engineer | Full Stack Developer
+
+University: Christ University
+
+Degree: B.Tech Electronics & Computer Science (AI)
+
+Expected Graduation: 2027
+
+Location: Bengaluru, India
+
+Current Focus:
+
+- AI Applications
+
+- Backend Development
+
+- Automation
+
+- REST APIs
+
+- Open Source
+```
+
+---
+
+# Current Focus
+
+```python
+current_focus = [
+
+    "AI Resume Analyzer",
+
+    "LLM Applications",
+
+    "REST APIs",
+
+    "Backend Development",
+
+    "Automation",
+
+    "Open Source"
+
+]
+```
+
+---
+
+# Fun Fact
+
+```python
+def fun_fact():
+
+    return (
+
+        "I enjoy turning ideas into AI-powered "
+
+        "applications that people can actually use."
+
+    )
+```
+
+---
+
+> **"Every line of code should solve a real-world problem."**
+
+### — Tharun Adhithya
+
+---
+
 <h1 align="center">⚡ Tech Stack</h1>
 
 <div align="center">

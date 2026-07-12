@@ -1,661 +1,147 @@
 <div align="center">
+  
+  # ⚡ Tharun Adhithya A
+  ### AI Engineer • Full Stack Developer • Open Source Learner
+  
+  <p align="center">
+    <a href="https://github.com/tadhithya">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Automation+Systems;Engineering+High-Performance+Full+Stack+Applications;Architecting+RAG+%26+Document+Parsing+Pipelines;BTech+in+Electronics+and+Computer+Science+%40+Christ+University" alt="Typing SVG" />
+    </a>
+  </p>
 
-# THARUN ADHITHYA A
-
-### AI Engineer | Full Stack Developer | Building Intelligent Software Systems
-
-Building scalable AI applications, automation tools, and full-stack products that solve real-world problems.
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Prompt+Engineer;Backend+Developer;Building+Intelligent+Software+Systems)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=tadhithya&style=for-the-badge&color=blue)
-
-[![Email](https://img.shields.io/badge/Email-tharunadhithya95%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:tharunadhithya95@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharun%20Adhithya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tharun-adhithya-6313ab2b9/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
-
-[![GitHub followers](https://img.shields.io/github/followers/tadhithya?style=for-the-badge)](https://github.com/tadhithya)
+  <p align="center">
+    <a href="https://linkedin.com/in/tharun-adhithya-a-6313ab2b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:tharunadhithya95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/tadhithya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=tadhithya&label=PROFILE+VIEWS&color=7AA2F7&style=for-the-badge" alt="Visitor Count" />
 
 </div>
 
----
-
-# About Me
-
-```python
-from dataclasses import dataclass, field
-from typing import List
-
-
-@dataclass
-class TharunAdhithya:
-
-    name: str = "Tharun Adhithya A"
-
-    role: str = (
-        "AI Engineer | Full Stack Developer"
-    )
-
-    specialization: str = (
-        "Artificial Intelligence • Backend Development • Automation"
-    )
-
-    focus: str = (
-        "Building production-ready software with AI integration"
-    )
-
-    location: str = "Bengaluru, India"
-
-    education: str = (
-        "B.Tech Electronics & Computer Science (AI)"
-    )
-
-    university: str = "Christ University"
-
-    graduation: str = "2027"
-
-    interests: List[str] = field(default_factory=lambda: [
-
-        "Artificial Intelligence",
-
-        "Full Stack Development",
-
-        "Backend Engineering",
-
-        "Automation",
-
-        "Cloud Computing",
-
-        "Open Source"
-
-    ])
-
-    tech_stack: List[str] = field(default_factory=lambda: [
-
-        "Python",
-
-        "JavaScript",
-
-        "TypeScript",
-
-        "React",
-
-        "Node.js",
-
-        "FastAPI",
-
-        "MongoDB",
-
-        "MySQL",
-
-        "Git",
-
-        "Docker"
-
-    ])
-
-    currently_learning: List[str] = field(default_factory=lambda: [
-
-        "Large Language Models",
-
-        "RAG Applications",
-
-        "AWS",
-
-        "Docker",
-
-        "CI/CD",
-
-        "System Design"
-
-    ])
-
-    def mission(self):
-
-        return (
-
-            "Create scalable software and AI systems "
-
-            "that improve everyday life."
-
-        )
-
-
-profile = TharunAdhithya()
-
-print(profile.mission())
-
-# Output
-
-Create scalable software and AI systems that improve everyday life.
-```
-
----
-
-# Quick Facts
-
-```yaml
-Name: Tharun Adhithya A
-
-Role: AI Engineer | Full Stack Developer
-
-University: Christ University
-
-Degree: B.Tech Electronics & Computer Science (AI)
-
-Expected Graduation: 2027
-
-Location: Bengaluru, India
-
-Current Focus:
-
-- AI Applications
-
-- Backend Development
-
-- Automation
-
-- REST APIs
-
-- Open Source
-```
-
----
-
-# Current Focus
-
-```python
-current_focus = [
-
-    "AI Resume Analyzer",
-
-    "LLM Applications",
-
-    "REST APIs",
-
-    "Backend Development",
-
-    "Automation",
-
-    "Open Source"
-
-]
-```
-
----
-
-# Fun Fact
-
-```python
-def fun_fact():
-
-    return (
-
-        "I enjoy turning ideas into AI-powered "
-
-        "applications that people can actually use."
-
-    )
-```
-
----
-
-> **"Every line of code should solve a real-world problem."**
-
-### — Tharun Adhithya
-
----
-
-<h1 align="center">⚡ Tech Stack</h1>
+<br/>
+
+## 🚀 About Me
+
+> *"Engineering intelligent systems that bridge the gap between complex data and seamless human interaction."*
+
+I am an AI & Full Stack Engineer currently pursuing my BTech in Electronics and Computer Science at **Christ University**. My expertise lies in designing scalable architectures, developing robust automated systems, and integrating cutting-edge LLMs to solve complex business problems. 
+
+I specialize in **Agentic AI, System Design, and Enterprise Automation**, with a strong focus on building production-ready architectures that can handle high-throughput document parsing, automated recruiter workflows, and intelligent lead generation.
+
+- 🎓 **Education**: BTech Electronics & Computer Science, Christ University
+- 🔭 **Currently Working On**: Advanced RAG pipelines, Automated Proposal Generation, and Multi-Agent Systems.
+- 🧠 **Research & Interests**: Large Language Models, Distributed Systems, High-Performance Computing, and Cloud-Native Applications.
+- 🌱 **Learning Path**: Kubernetes, Advanced System Architecture, and Enterprise Security.
+
+<br/>
+
+## 💼 Featured Engineering Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 Enterprise PDF QA Engine (RAG)</h3>
+      <p>A high-performance document parsing and QA system leveraging Retrieval-Augmented Generation to extract insights from massive PDF repositories.</p>
+      <b>Architecture & Tech:</b>
+      <ul>
+        <li><b>Stack:</b> Python, LangChain, Pinecone, FastAPI, React</li>
+        <li><b>AI Models:</b> OpenAI GPT-4, BGE Embeddings</li>
+        <li><b>Features:</b> Semantic chunking, conversational memory, hallucination guardrails.</li>
+        <li><b>Scalability:</b> Asynchronous document processing with Celery and Redis.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Intelligent Automation Suite</h3>
+      <p>A suite of AI-driven tools engineered to automate lead generation, recruiter outreach, and enterprise proposal generation.</p>
+      <b>Architecture & Tech:</b>
+      <ul>
+        <li><b>Stack:</b> Node.js, Python, PostgreSQL, Next.js, Docker</li>
+        <li><b>AI Models:</b> Llama 3, Claude 3 Opus, LangGraph</li>
+        <li><b>Features:</b> Multi-agent workflows, automated email parsing, dynamic CRM integrations.</li>
+        <li><b>Scalability:</b> Event-driven architecture utilizing RabbitMQ for resilient message brokering.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## ⚡ Engineering Stack
 
 <div align="center">
 
-### Languages
+### 💻 Core Languages & Frameworks
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,php" />
+### 🧠 Artificial Intelligence & Data
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,aws" />
+### ☁️ Infrastructure & Databases
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
----
+<br/>
 
-# 💼 Work Experience
-
-## 🚀 AI & Application Development Intern
-
-### Dewdas Technology Pvt. Ltd.
-
-**2025 **
-
-```text
-Python • REST APIs • Automation • Git • Backend Development
-```
-
-### Responsibilities
-
-✔ Developed AI-powered software applications
-
-✔ Integrated REST APIs with backend systems
-
-✔ Built automation workflows for operational efficiency
-
-✔ Debugged and tested production applications
-
-✔ Maintained technical documentation
-
-✔ Collaborated with development teams
-
----
-
-## 🤖 Prompt Engineering Intern
-
-### Future Interns
-
-**2026 **
-
-```text
-Prompt Engineering • AI Workflows • GitHub • Automation
-```
-
-### Responsibilities
-
-✔ Designed optimized prompts for AI systems
-
-✔ Built AI-powered automation workflows
-
-✔ Created productivity-focused AI applications
-
-✔ Maintained GitHub repositories and documentation
-
-✔ Collaborated on real-world AI projects
-
----
-
-# 🚀 Featured Projects
-
-## ⭐ AI Resume Analyzer
-
-```yaml
-Tech Stack:
-Python
-Streamlit
-Natural Language Processing
-
-Features:
-
-✓ ATS Score Generation
-
-✓ Resume Parsing
-
-✓ Job Description Matching
-
-✓ AI Resume Suggestions
-
-✓ Intelligent Analysis
-```
-
----
-
-## ⭐ AI Health Assistant
-
-```yaml
-Tech Stack:
-
-Python
-
-LLMs
-
-REST APIs
-
-Features:
-
-✓ Conversational AI
-
-✓ Context-Aware Responses
-
-✓ Health Guidance
-
-✓ AI Decision Support
-
-✓ Smart Recommendations
-```
-
----
-
-## ⭐ AI Smart Traffic System
-
-```yaml
-Tech Stack:
-
-Python
-
-Machine Learning
-
-Computer Vision
-
-Features:
-
-✓ Traffic Prediction
-
-✓ Intelligent Signal Optimization
-
-✓ Smart Route Analysis
-
-✓ Real-Time Processing
-
-✓ AI Automation
-```
-
----
-
-## ⭐ Authentication System
-
-```yaml
-Tech Stack:
-
-PHP
-
-JavaScript
-
-MySQL
-
-Features:
-
-✓ User Registration
-
-✓ Login Authentication
-
-✓ Session Management
-
-✓ Database Integration
-
-✓ Secure Validation
-```
-
----
-
-## ⭐ Web Clothing Store
-
-```yaml
-Tech Stack:
-
-HTML
-
-CSS
-
-JavaScript
-
-MongoDB
-
-Features:
-
-✓ Responsive Design
-
-✓ Category Filtering
-
-✓ Database Integration
-
-✓ Modern UI
-
-✓ Performance Optimization
-```
-
----
-
-# 📂 Current Repository Roadmap
-
-| Repository | Status |
-| -------------------------------- | ---------------- |
-| AI Resume Analyzer | ✅ Active |
-| AI Health Assistant | ✅ Active |
-| AI Smart Traffic System | ✅ Active |
-| Authentication System | ✅ Active |
-| Web Clothing Store | ✅ Active |
-| Portfolio Website | 🚧 In Progress |
-
----
-
-# 🎯 2026 Development Goals
-
-```python
-goals_2026 = {
-
-    "AI Projects": 15,
-
-    "Open Source Contributions": 100,
-
-    "GitHub Stars": 500,
-
-    "Hackathons": 5,
-
-    "Certifications": 10,
-
-    "Production Projects": 20
-
-}
-```
-
----
-
-# 📈 Currently Building
-
-```python
-currently_building = [
-
-    "AI Resume Analyzer",
-
-    "AI Health Assistant",
-
-    "LLM Applications",
-
-    "Backend APIs",
-
-    "Automation Systems",
-
-    "Open Source Projects"
-
-]
-```
-
----
-
-# 💡 Philosophy
-
-```python
-while learning:
-
-    build()
-
-    improve()
-
-    document()
-
-    contribute()
-
-    repeat()
-```
-# 📊 GitHub Statistics
+## 📈 GitHub Activity & Metrics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tadhithya&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadhithya&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://github-profile-trophies.vercel.app/?username=tadhithya&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=6&no-frame=true&no-bg=true" alt="Trophies" />
 </div>
 
-# 🔥 Contribution Streak
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tadhithya&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=tadhithya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadhithya&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakNum=7AA2F7" alt="GitHub Streak" width="48%" />
 </div>
 
-# 📈 Contribution Graph
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tadhithya&theme=github-dark&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadhithya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7" alt="Top Languages" width="60%" />
 </div>
 
-# 🏆 GitHub Achievements
+<br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tadhithya&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
----
-
-<div align="center">
-
-### "Build. Learn. Share. Repeat."
-
-# 🎓 Education
-
-| Degree | Institution | Graduation | CGPA |
-|----------|------------|------------|------------|
-| B.Tech Electronics & Computer Science (AI) | Christ University, Bengaluru | 2027 | 3.40 / 4.00 |
-
-### Relevant Coursework
-
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-- Database Management Systems
-- Software Engineering
-- Computer Networks
-
+  <h3>🐍 Code Contributions Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tadhithya/tadhithya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tadhithya/tadhithya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tadhithya/tadhithya/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
-# 🏅 Certifications
+<br/>
 
-- Prompt Engineering Internship – Future Interns
-- Microsoft AI Skills Challenge
-- NPTEL Data Science
-- MATLAB Programming
-- Cyber Security Fundamentals
-- L&T Edutech Program
-
-# 📚 Currently Learning
-
-```python
-learning_roadmap = {
-
-    "LLMs":
-        "Advanced Prompt Engineering & Agents",
-
-    "LangChain":
-        "LLM Application Development",
-
-    "AWS":
-        "EC2 • S3 • Lambda • CloudFront",
-
-    "Docker":
-        "Containerized AI Applications",
-
-    "PostgreSQL":
-        "Scalable Database Systems",
-
-    "Redis":
-        "Caching & Performance",
-
-    "Kubernetes":
-        "Container Orchestration",
-
-    "GitHub Actions":
-        "CI/CD Automation",
-
-    "System Design":
-        "Scalable Backend Architecture"
-
-}
-```
-
-# 🌍 Open Source Goals
-
-```python
-open_source = {
-
-    "Hacktoberfest":
-        "2026",
-
-    "First Open Source PR":
-        "In Progress",
-
-    "GitHub Foundations":
-        "Planned",
-
-    "AWS Cloud Practitioner":
-        "Planned",
-
-    "Contributions":
-        "100+ by 2026"
-
-}
-```
-
-# 🐍 Contribution Snake
-
-Will be enabled through GitHub Actions soon.
-
-# 📫 Connect With Me
+## 💬 Core Philosophy
 
 <div align="center">
-
-<a href="mailto:tharunadhithya95@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="https://github.com/tadhithya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=BB9AF7&center=true&vCenter=true&width=800&lines=%22Code+is+read+much+more+often+than+it+is+written.%22;%22Architect+for+scale%2C+design+for+humans.%22;%22Automate+the+mundane%2C+engineer+the+future.%22" alt="Philosophy Quote" />
+  </a>
 </div>
 
----
-
+<br/>
 <div align="center">
-
-### 💡 Build • Learn • Share • Repeat
-
-*"Every line of code should solve a real-world problem."*
-
-**Tharun Adhithya**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer" width="100%"/>
 </div>

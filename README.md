@@ -76,10 +76,13 @@ print(me.currently())
 - Comfortable across the stack: sensors → APIs → UI
 - Bias toward production-readiness over prototypes
 
-**🏆 Signal**
-- 🥇 1st Place — PRAKALP National-Level Competition (180+ teams)
-- 🏅 Best Project of the Year — ECE, Christ University
-- 🔬 Industry 4.0 Lab contributor, Christ University
+****🏆 Highlights**
+
+- 🤖 Built multiple AI-powered applications using LLMs, NLP, and Computer Vision
+- 💼 Application Development & AI Intern — Dewdas Technology Pvt. Ltd.
+- 🧠 Prompt Engineering Intern — Future Interns
+- 🚀 Developed end-to-end full-stack applications with React, Node.js, FastAPI, MongoDB, and MySQL
+- 🌱 Continuously learning cloud technologies, system design, and AI engineering
 
 </td>
 </tr>

@@ -92,17 +92,14 @@ print(me.currently())
 
 ## 🏆 Achievements & Competitive Profiles
 
-<div align="center">
-
-| Platform | Profile | Focus Area |
-|:---:|:---:|:---:|
-| 🟠 **LeetCode** | [`Update handle`](https://leetcode.com/) | DSA & Problem Solving |
-| 🟤 **CodeChef** | [`Update handle`](https://www.codechef.com/) | Competitive Programming |
-| 🟢 **GeeksforGeeks** | [`Update handle`](https://www.geeksforgeeks.org/) | DSA & Core CS |
-| 🔵 **HackerRank** | [`Update handle`](https://www.hackerrank.com/) | Algorithms & SQL |
-| 🔴 **Codeforces** | [`Update handle`](https://codeforces.com/) | Competitive Programming |
-
-*Add your public profile links above — this table is wired for it.*
+| Category | Details |
+|:--------:|---------|
+| 🤖 AI & Machine Learning | Microsoft AI Skills Challenge · Generative AI Fundamentals · Machine Learning Fundamentals |
+| 🧠 Prompt Engineering | Prompt Engineering Fundamentals |
+| 📊 Data Science | NPTEL Data Science |
+| 💻 Programming | MATLAB Programming |
+| 🛡️ Cyber Security | Cyber Security Fundamentals |
+| 🏭 Industry | L&T Edutech Program |
 
 </div>
 
